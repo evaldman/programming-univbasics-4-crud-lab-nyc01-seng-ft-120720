@@ -10,7 +10,7 @@ def add_element_to_end_of_array(array, element)
   
   create_an_array.push("arrays!")
 end
-
+puts add_element_to_end_of_array
 def add_element_to_start_of_array(array, element)
   
 end
