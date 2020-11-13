@@ -41,5 +41,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+ create_an_array = ["bob", "rob", "ted", "fred", "arrays!"]
+ create_an_array[4] = "totally"
 end
