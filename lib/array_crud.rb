@@ -6,9 +6,9 @@ def create_an_array
   ["bob", "rob", "ted", "fred"]
 end
 
-def add_element_to_end_of_array(array, element)
-  [1, 2, 3, 4]
-  add_element_to_end_of_array.push(5)
+def add_element_to_end_of_array(array, element) = 
+  ["cliff", "jeff"]
+  add_element_to_end_of_array.push("steve")
 end
 
 def add_element_to_start_of_array(array, element)
