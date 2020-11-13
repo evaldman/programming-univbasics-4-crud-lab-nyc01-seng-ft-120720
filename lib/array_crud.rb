@@ -31,7 +31,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-   create_an_array = ["bob", "rob", "ted", "fred", "arrays!"]
+   create_an_array = ["wow","bob", "rob", "ted", "fred", "arrays!"]
+   create_an_array[0]
 end
 
 def retrieve_last_element_from_array(array)
